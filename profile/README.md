@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Merhaba, WeIOT SaaS Platformu Geliştirci Sayfasına Hoş Geldiniz.
+👋 WeIOT Hoş Geldiniz.
 
 
 Proje üzerinde geliştirici hesabu açkmak için developer@weiot.cloud e-posta adresine başvuru gönderiniz.  
